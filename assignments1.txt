@@ -1,0 +1,67 @@
+ALGORITHMS FOR LIBRARY MANAGEMENT SYSTEM:
+-1:start.
+-2:enter the rollnumberin notbook or scan the id card.
+-3:check if the card is eligible to take the book, 
+   if not eligible not able to take.
+-4:if eligible go and search the book having or not,
+   if not report it to the staff about the book details and leave.
+-5:if the book is having means report it to the staff(no.of.books,name of the book).
+-6:take the book.
+-7:stop.
+
+
+ALGORITHMS ON ATM TRANSACTION:
+-1:start.
+-2:Swipe card.
+-3:check if the card is v alid or not,
+   invalid return the card.
+-4:valid,enter the language and pin.
+-5:check if the pin is valid
+   invalid repeat the step 5.
+-6:if the pin is valid.
+-7:select account type.
+-8:type of transaction
+-9:enter the amount.
+-10:collect the amount.
+-11:receipt.
+-12:stop.
+
+
+ALGORITHM RESTAURANT MANAGEMENT SYSTEM:
+
+a)ORDER MANGEMENT SYSTEM
+-1:Start.
+-2:select the address where we want the delivery.
+-3:search the nearby restaurant.
+-4:check in that restaurant what the item you want,
+   if not repeat step-3.
+-5:if the item is in the restaurant add to card.
+-6:make payment(upi,debit card).
+-7:order confirmation.
+-8:stop.
+
+b)KITCHEN MANAGEMENT ALGORITHMS
+-1:Start.
+-2:plan the dish to cook.
+-3:check the ingredance are having or not,
+   if not order it.
+-4:check the required tools are working properly or not,
+   if not repair it and order it.
+-5:and make sure that kitchen is clean,
+   if not clean first.
+-6:complete the cooking and clean the kitchen.
+-7:stop.
+
+C)EMPLOYEE MANAGEMENT ALGORITHMS
+-1:start.
+-2:login.
+-3:check the attendance of the employee is above 95 percentage.
+-4:check the performance is above 90 percentage.
+-5:check the details about employee how many years working,
+   working more that 3 years.
+-4:if working more that 3 years make hike 10 percentage in salary.  
+-5:if the employee working here 2 years and no hike,
+   repeat step-3&4 if the condition is eligible make them 8%hike.
+-6:stop.
+   
+
